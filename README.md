@@ -1,0 +1,2 @@
+Na home stranici se nalazi lista naziva jela. Kada pritisnemo jedno od ponudjenih jela prelazimo na stranicu vezanu za to jelo.
+Na toj stranici se nalazi dugme za povratak na home stranicu, a ispod nje se nalaze slika biranog jela, opis, sastojci i instrukcije za pravljenje istog tog jela.
